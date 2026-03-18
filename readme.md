@@ -65,7 +65,7 @@ python multiple_regression.py
 
 **Запуск:**
 ```bash
-python lab3_regression.py
+python pair_regression.py
 ```
 
 **Вывод:**
